@@ -47,3 +47,19 @@ yarn seed:user
 ```bash
 yarn start
 ```
+
+## Testing
+
+To run test:
+
+```bash
+yarn test
+```
+
+## Docker Support
+
+If Node.js or Mongo isnt set up locally, use Docker:
+
+```bash
+docker-compose up
+```
